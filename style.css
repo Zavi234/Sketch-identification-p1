@@ -1,0 +1,22 @@
+body
+{
+    background-color: aquamarine;
+}
+
+#timer
+{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#score_span
+{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#sketch_to_draw
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
